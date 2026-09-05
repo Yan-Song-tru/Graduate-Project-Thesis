@@ -1,0 +1,34 @@
+version: 1
+
+project:
+  id: graduate-student-supervision
+  title: Graduate Student Supervision Part One
+  description: >-
+    A personal guide for prospective and current MSc students, covering
+    supervision, research directions, funding, topic selection, literature
+    reviews, proposal development, and working together.
+  keywords:
+    - graduate supervision
+    - MSc research
+    - computing science
+    - computer vision
+    - machine learning
+    - thesis
+    - project
+  open_access: true
+
+  toc:
+    - file: index.md
+    - file: supervision.md
+    - file: research.md
+    - file: funding.md
+    - file: topic.md
+    - file: literature.md
+    - file: timeline.md
+    - file: working-together.md
+
+site:
+  template: book-theme
+  title: Graduate Student Supervision
+  options:
+    hide_toc: false
