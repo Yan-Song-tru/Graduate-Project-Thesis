@@ -3,10 +3,6 @@ title: Graduate Student Supervision Part One
 description: From deciding whether to work together to developing a research or project proposal
 ---
 
-# Graduate Student Supervision Part One
-
-## From deciding whether to work together to developing a research or project proposal
-
 I wrote this guide to explain how I work with graduate students and what you can expect when developing a research or project with me. It is meant to help prospective students decide whether my group is a good fit, and to give current and newly admitted students a practical roadmap for moving from an initial area of interest to a focused project or thesis proposal.
 
 This is a guide to how I generally work, not a contract or a fixed script. The details may change depending on the project, the graduate program, available resources, and your background.
