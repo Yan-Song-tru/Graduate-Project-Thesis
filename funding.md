@@ -18,7 +18,7 @@ Depending on the situation, support may involve one or more of the following:
 - Research assistant positions supported by the DG research grants
 - University, government, or external scholarships
 
-Funding may be competitive and is not necessarily guaranteed. When funding is tied to research assistant work, I will explain the responsibilities connected to the project. These may include literature review, implementing methods, preparing data, running experiments, documenting results, or contributing to research outputs.
+Funding may be competitive and is not guaranteed. When funding is tied to research assistant work, I will explain the responsibilities connected to the project. These may include literature review, implementing methods, preparing data, running experiments, documenting results, or contributing to research outputs.
 
 The expected duration and conditions of support should be discussed early and revisited as circumstances change.
 
