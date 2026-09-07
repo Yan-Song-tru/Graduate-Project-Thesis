@@ -2,7 +2,7 @@ version: 1
 
 project:
   id: graduate-student-supervision
-  title: Graduate Student Supervision Part One
+  title: Graduate Student Recruitment, Supervision & Research
   description: >-
     A personal guide for prospective and current MSc students, covering
     supervision, research directions, funding, topic selection, literature
@@ -29,7 +29,7 @@ project:
 
 site:
   template: book-theme
-  title: Graduate Student Supervision
+  title: Graduate Student Recruitment, Supervision & Research
   nav:
     - title: Start Here
       url: /
