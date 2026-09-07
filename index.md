@@ -26,3 +26,19 @@ This first part follows the path from initial fit and topic development to a res
 ## A note to prospective students
 
 You do not need to arrive with a fully formed thesis or project topic. What matters most at the beginning is that you are interested in learning how research works, willing to read and experiment, and prepared to communicate openly as the direction develops.
+
+If you have questions after reading this guide, you are welcome to email me at [ysong@tru.ca](mailto:ysong@tru.ca). Please include a brief description of your background, research interests, and whether you are considering a project or thesis option.
+
+## Scope and availability
+
+This guide describes my general approach to graduate supervision. It is provided for information purposes and does not guarantee admission, funding, supervision availability, or a specific research project. Details may vary depending on program requirements, available resources, and individual circumstances.
+
+## Accessibility
+
+I aim to make this guide accessible by using descriptive headings, readable text, clear link labels, and alternative text for images when images are added. If you encounter an accessibility barrier or need information in another format, please email me at [ysong@tru.ca](mailto:ysong@tru.ca).
+
+## Copyright and updates
+
+© 2026 Yan Song. Unless otherwise noted, the written content on this website is my original work. Please contact me before reproducing substantial portions of it. Third-party materials, including logos, images, and quoted content, remain the property of their respective owners.
+
+Last updated: September 2026.
