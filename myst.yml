@@ -30,5 +30,22 @@ project:
 site:
   template: book-theme
   title: Graduate Student Supervision
+  nav:
+    - title: Start Here
+      url: /
+    - title: How I Supervise
+      url: /supervision
+    - title: Research Areas
+      url: /research
+    - title: Funding
+      url: /funding
+    - title: Choosing a Topic
+      url: /topic
+    - title: Literature and Proposals
+      url: /literature
+    - title: Proposal Timeline
+      url: /timeline
+    - title: Working Together
+      url: /working-together
   options:
     hide_toc: false
