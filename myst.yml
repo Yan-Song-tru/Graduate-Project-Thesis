@@ -1,7 +1,7 @@
 version: 1
 
 project:
-  id: graduate-student-supervision
+  id: main
   title: Graduate Student Recruitment, Supervision & Research
   description: >-
     A personal guide for prospective and current MSc students, covering
