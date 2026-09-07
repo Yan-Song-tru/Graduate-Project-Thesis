@@ -37,6 +37,13 @@ This guide describes my general approach to graduate supervision. It is provided
 
 I aim to make this guide accessible by using descriptive headings, readable text, clear link labels, and alternative text for images when images are added. If you encounter an accessibility barrier or need information in another format, please email me at [ysong@tru.ca](mailto:ysong@tru.ca).
 
+## Use of Generative AI
+Generative AI tools were used to assist with organizing, drafting, editing, and configuring this website. I reviewed, revised, and remain responsible for the accuracy, relevance, and final content of the site.
+
+## Site status
+
+This website is currently under construction. I will continue to update it as the guide develops, new resources become available, and the graduate supervision process evolves. Please check back for updates.
+
 ## Copyright and updates
 
 © 2026 Yan Song. Unless otherwise noted, the written content on this website is my original work. Please contact me before reproducing substantial portions of it. Third-party materials, including logos, images, and quoted content, remain the property of their respective owners.
