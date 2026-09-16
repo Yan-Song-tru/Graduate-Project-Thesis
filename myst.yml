@@ -6,7 +6,8 @@ project:
   description: >-
     A personal guide for prospective and current MSc students, covering
     supervision, research directions, funding, topic selection, literature
-    reviews, proposal development, and working together.
+    reviews, proposal development, working together, and undergraduate research
+    assistant opportunities.
   keywords:
     - graduate supervision
     - MSc research
@@ -26,6 +27,7 @@ project:
     - file: literature.md
     - file: timeline.md
     - file: working-together.md
+    - file: undergraduate-ra.md
 
 site:
   template: book-theme
@@ -47,5 +49,7 @@ site:
       url: /timeline
     - title: Working Together
       url: /working-together
+    - title: Undergraduate RAs
+      url: /undergraduate-ra
   options:
     hide_toc: false

@@ -23,3 +23,5 @@ Funding may be competitive and is not guaranteed. When funding is tied to resear
 The expected duration and conditions of support should be discussed early and revisited as circumstances change.
 
 For questions about current opportunities, please email [ysong@tru.ca](mailto:ysong@tru.ca).
+
+Undergraduate students interested in RA work should also read [Undergraduate Research Assistants](undergraduate-ra.md) for preparation, commitment, and application details.
