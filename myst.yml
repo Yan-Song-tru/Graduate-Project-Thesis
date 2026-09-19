@@ -28,6 +28,7 @@ project:
     - file: timeline.md
     - file: working-together.md
     - file: undergraduate-ra.md
+    - file: resources.md
 
 site:
   template: book-theme
@@ -51,5 +52,7 @@ site:
       url: /working-together
     - title: Undergraduate RAs
       url: /undergraduate-ra
+    - title: Resources
+      url: /resources
   options:
     hide_toc: false
