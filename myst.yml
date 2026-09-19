@@ -29,6 +29,9 @@ project:
     - file: working-together.md
     - file: undergraduate-ra.md
     - file: resources.md
+    - file: proposal-template.md
+    - file: paper-reading-guide.md
+    - file: meeting-template.md
 
 site:
   template: book-theme
@@ -54,5 +57,11 @@ site:
       url: /undergraduate-ra
     - title: Resources
       url: /resources
+    - title: Proposal Template
+      url: /proposal-template
+    - title: Paper Reading Guide
+      url: /paper-reading-guide
+    - title: Meeting Template
+      url: /meeting-template
   options:
     hide_toc: false
