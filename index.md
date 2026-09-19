@@ -24,6 +24,7 @@ If you are an undergraduate interested in research assistant work, see [Undergra
 6. [Suggested Proposal Timeline](timeline.md)
 7. [How We Work Together](working-together.md)
 8. [Undergraduate Research Assistants](undergraduate-ra.md)
+9. [Resources](resources.md)
 
 ## A note to prospective students
 
